@@ -1,5 +1,9 @@
 # India's Commodity-Driven Trade Deficit
 
+<!-- how-to-use-with-ai -->
+> **New here?** See [How to use this repo with AI (Claude, Gemini, ChatGPT)](HOW_TO_USE_WITH_AI.md) — clone it, paste it into an AI tool, and ask in plain English.
+
+
 How much of India's trade deficit is commodities — and what, if anything, pulls it back? This repo isolates the commodity leg of India's merchandise trade gap using the Commerce Ministry's own TRADESTAT (DGCI&S) data, traces its impact on the rupee, and stress-tests the one proven counterforce: metal recycling.
 
 Companion repo: [india-trade-data-analysis](https://github.com/herrrickshaw/india-trade-data-analysis) (full 98-chapter trade, currency, inflation and macro datasets this work builds on).
